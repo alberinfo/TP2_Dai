@@ -1,0 +1,16 @@
+{
+  "name": "funciones",
+  "version": "1.0.0",
+  "description": "Todas las funciones del tp de dai(?)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Albert - Eitu",
+  "license": "ISC",
+  "dependencies": {
+    "currency-map-country": "^1.0.12",
+    "funciones": "^1.0.2"
+  }
+}
